@@ -1,13 +1,12 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: Unexplained
+author: Lou Touyarou
+email: loutouyarou@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Unexplained is a media dedicated to diversity in arts and culture and to give a voice to talented artists. 
 
 # social links
 twitter_username: your-twitter-handle # DO NOT include the @ character, or else the build will fail!
 github_username:  your-github-handle # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
