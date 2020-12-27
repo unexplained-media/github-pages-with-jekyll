@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to unexplained
 
-I'm glad you are here. I plan to talk about ...
+This media is dedicated to diversity in arts and culture, but also wants to give a voice to talented artists!
